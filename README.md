@@ -13,12 +13,12 @@ O objetivo do projeto é transformar dados em **insights acionáveis**, apoiando
 
 O painel permite analisar:
 
-- 💰 Renda média por compra (por gênero)
-- 👥 Distribuição por faixa etária
-- 📍 Padrão de deslocamento dos clientes
-- 🌍 Segmentação por região
-- 🎓 Nível de educação
-- 💍 Status civil
+-  Renda média por compra (por gênero)
+-  Distribuição por faixa etária
+-  Padrão de deslocamento dos clientes
+-  Segmentação por região
+-  Nível de educação
+-  Status civil
 
 ---
 
@@ -52,7 +52,7 @@ O painel permite analisar:
 
 ---
 
-## Filtros Interativos
+### Filtros Interativos
 
 O dashboard permite segmentação por:
 
@@ -78,4 +78,5 @@ Isso possibilita análises detalhadas por perfil específico.
 
 Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=opJgMj1IUrc.
 Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+
 Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
