@@ -1,4 +1,4 @@
-# Venda de Bicicletas (Excel)
+# Performance de Venda de Bicicletas (Excel)
 
 Dashboard desenvolvido no Excel para análise estratégica de vendas de bicicletas, com foco em **perfil demográfico, renda média, comportamento de compra e deslocamento dos clientes**.
 
@@ -80,3 +80,4 @@ Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: http
 Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
 
 Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
+
